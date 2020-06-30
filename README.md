@@ -10,3 +10,5 @@
 - Github documentation - https://help.github.com/en/github
 
 ## Homework
+
+- Homework 1 - Due 7/6 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
