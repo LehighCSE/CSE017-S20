@@ -16,3 +16,4 @@
 ## Resources
 
 - git - https://git-scm.com
+- vs code - https://code.visualstudio.com
