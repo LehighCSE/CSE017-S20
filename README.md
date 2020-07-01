@@ -13,6 +13,11 @@
 
 - Homework 1 - Due 7/6 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
 
+## Lectures
+
+- Lecture 1 - git and Github - https://youtu.be/6LaLj-WcSn8
+- Lecture 2 - Github and repl.it - https://youtu.be/--kztlb8mDY
+
 ## Resources
 
 - git - https://git-scm.com
