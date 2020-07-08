@@ -15,6 +15,7 @@
 
 ## Lectures
 
+- Lecture 4 - [Modeling with Objects](https://youtu.be/5l6_cTosLuY)
 - Lecture 3 - [The Java Programming Langauge](https://youtu.be/TVVl9ZOZlwo)
 - Lecture 2 - [Github and repl.it](https://youtu.be/--kztlb8mDY)
 - Lecture 1 - [git and Github](https://youtu.be/6LaLj-WcSn8)
