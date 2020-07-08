@@ -27,6 +27,10 @@ From the [Java book](https://open.umn.edu/opentextbooks/textbooks/introduction-t
 - Github marketing video - https://www.youtube.com/watch?v=w3jLJU7DT5E
 - Github documentation - https://help.github.com/en/github
 
+## Lecture repls
+
+- Lecture 5 - https://repl.it/@cmontella/DarkmagentaPeriodicOutlier#Main.java
+
 ## Resources
 
 - git - https://git-scm.com
