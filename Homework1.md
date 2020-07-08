@@ -12,3 +12,5 @@ This week we are just getting set up.
 - Step 6. - Read this week's assigned readings
 
 Do this by Monday 7/6.
+
+Hello
