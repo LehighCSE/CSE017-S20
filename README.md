@@ -17,7 +17,7 @@
 
 From the [Java book](https://open.umn.edu/opentextbooks/textbooks/introduction-to-programming-using-java-seventh-edition)
 
-- Chapters 1, 2, 3, 4, 5, 7, 9. The first chapters should be all review. Chapter 5 is relevant to what we're talking about in lecture. Skip Chapter 6. Chapter 7 and 9 are going to be the main topic for next week. 
+- Chapters 1, 2, 3, 4, 5, 7, 9. The first chapters should be all review, so you might want to just skim them and make note of anything you're unsure of. You should ask me about these topics during daily office hours time. Chapter 5 is relevant to what we're talking about in lecture w.r.t. OOP. Skip Chapter 6. Chapter 7 and 9 are going to be the main topic for next week. 
 
 ### Week 1
 
