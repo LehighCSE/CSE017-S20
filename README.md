@@ -12,7 +12,7 @@
 
 ## Lectures
 
-- Lecture 5 - [Vide](https://youtu.be/-MWJ7xyfaRQ) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%205.pptx) - [Code](https://repl.it/@cmontella/DarkmagentaPeriodicOutlier#Main.java) Objects and Classes in Java
+- Lecture 5 - [Vide](https://youtu.be/-MWJ7xyfaRQ) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%205.pptx) - [Code](https://repl.it/@cmontella/DarkmagentaPeriodicOutlier#Main.java) - Objects and Classes in Java
 - Lecture 4 - [Video](https://youtu.be/5l6_cTosLuY) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%204.pptx) - Modeling with Objects
 - Lecture 3 - [The Java Programming Langauge](https://youtu.be/TVVl9ZOZlwo)
 - Lecture 2 - [Github and repl.it](https://youtu.be/--kztlb8mDY)
