@@ -5,6 +5,11 @@
 - [ ] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ)
 - [x] Homework 1 - Due 7/06 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
 
+## Quizzes
+
+- [ ] Quiz 2 - Due 7/13 - [Link](https://classroom.github.com/a/8Eh_G18D)
+- [x] Quiz 1 - Due 7/06 - [Link](https://classroom.github.com/a/DkTL7hmH)
+
 ## Lectures
 
 - Lecture 5 - [Vide](https://youtu.be/-MWJ7xyfaRQ) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%205.pptx) - [Code](https://repl.it/@cmontella/DarkmagentaPeriodicOutlier#Main.java) Objects and Classes in Java
