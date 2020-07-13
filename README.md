@@ -5,8 +5,14 @@
 - [ ] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ)
 - [x] Homework 1 - Due 7/06 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
 
+## Quizzes
+
+- [ ] Quiz 2 - Due 7/13 - [Link](https://classroom.github.com/a/8Eh_G18D)
+- [x] Quiz 1 - Due 7/06 - [Link](https://classroom.github.com/a/DkTL7hmH)
+
 ## Lectures
 
+- Lecture 5 - [Vide](https://youtu.be/-MWJ7xyfaRQ) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%205.pptx) - [Code](https://repl.it/@cmontella/DarkmagentaPeriodicOutlier#Main.java) - Objects and Classes in Java
 - Lecture 4 - [Video](https://youtu.be/5l6_cTosLuY) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%204.pptx) - Modeling with Objects
 - Lecture 3 - [The Java Programming Langauge](https://youtu.be/TVVl9ZOZlwo)
 - Lecture 2 - [Github and repl.it](https://youtu.be/--kztlb8mDY)
@@ -26,10 +32,6 @@ From the [Java book](https://open.umn.edu/opentextbooks/textbooks/introduction-t
 - VCS - https://missing.csail.mit.edu/2020/version-control/
 - Github marketing video - https://www.youtube.com/watch?v=w3jLJU7DT5E
 - Github documentation - https://help.github.com/en/github
-
-## Lecture repls
-
-- Lecture 5 - https://repl.it/@cmontella/DarkmagentaPeriodicOutlier#Main.java
 
 ## Resources
 
