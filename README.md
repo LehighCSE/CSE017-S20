@@ -12,6 +12,7 @@
 
 ## Lectures
 
+- Lecture 8 - [Video](https://youtu.be/U1K0V8d60Tw) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%208.pptx) - Linked List Design and Implemenation
 - Lecture 7 - [Video](https://youtu.be/Idk3ir8yHj0) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%207.pptx) - Linked List Design and Implemenation
 - Lecture 6 - [Video](https://youtu.be/P5cfoNvSNWA) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%206.pptx) - Recursion and Linked Lists 
 - Lecture 5 - [Video](https://youtu.be/-MWJ7xyfaRQ) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%205.pptx) - [Code](https://repl.it/@cmontella/DarkmagentaPeriodicOutlier#Main.java) - Objects and Classes in Java
