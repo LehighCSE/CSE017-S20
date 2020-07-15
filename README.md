@@ -1,8 +1,8 @@
 # CSE 017 - Summer 2020
 
 ## Homework
-
-- [ ] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ)
+- [ ] Homework 3 - Due 7/22 - [Link](https://classroom.github.com/a/F-VbjCFc)
+- [x] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ)
 - [x] Homework 1 - Due 7/06 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
 
 ## Quizzes
