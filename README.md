@@ -24,6 +24,19 @@
 
 ## Readings
 
+### Week 4
+
+From the [Algorithms book](https://open.umn.edu/opentextbooks/textbooks/think-data-structures-algorithms-and-information-retrieval-in-java)
+
+- Chapter 17 (you can skip Radix sort)
+
+- https://en.wikipedia.org/wiki/Insertion_sort
+- https://en.wikipedia.org/wiki/Selection_sort
+- https://en.wikipedia.org/wiki/Bubble_sort
+- https://en.wikipedia.org/wiki/Merge_sort
+- https://en.wikipedia.org/wiki/Quicksort
+- https://en.wikipedia.org/wiki/Heapsort
+
 ### Weeks 2, 3
 
 From the [Java book](https://open.umn.edu/opentextbooks/textbooks/introduction-to-programming-using-java-seventh-edition)
