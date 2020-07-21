@@ -13,6 +13,7 @@
 
 ## Lectures
 
+- Lecture 9 - [Video](https://youtu.be/ZGLogsI76xs) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%209.pptx) - Sorting 
 - Lecture 8 - [Video](https://youtu.be/U1K0V8d60Tw) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%208.pptx) - Linked List Design and Implemenation
 - Lecture 7 - [Video](https://youtu.be/Idk3ir8yHj0) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%207.pptx) - Linked List Design and Implemenation
 - Lecture 6 - [Video](https://youtu.be/P5cfoNvSNWA) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%206.pptx) - Recursion and Linked Lists 
