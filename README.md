@@ -13,6 +13,8 @@
 
 ## Lectures
 
+- Lecture 11 - [Video](https://youtu.be/UEY1VdYVhck) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2011.pptx) - Heap Sort and Intro to Trees
+- Lecture 10 - [Video](https://youtu.be/S06PkYmDm2I) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2010.pptx) - Sorting Continued
 - Lecture 9 - [Video](https://youtu.be/ZGLogsI76xs) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%209.pptx) - Sorting 
 - Lecture 8 - [Video](https://youtu.be/U1K0V8d60Tw) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%208.pptx) - Linked List Design and Implemenation
 - Lecture 7 - [Video](https://youtu.be/Idk3ir8yHj0) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%207.pptx) - Linked List Design and Implemenation
