@@ -10,8 +10,8 @@
 ## Quizzes
 
 - [ ] Quiz 4 - Due 7/27 - [Link](https://classroom.github.com/a/zGqRbhWJ)
-- [x] Quiz 3 - Due 7/20 - [Link](https://classroom.github.com/a/lA2iEgXb) [Solution](https://github.com/cmontella/cse017-quiz3/blob/solution/README.md)
-- [x] Quiz 2 - Due 7/13 - [Link](https://classroom.github.com/a/8Eh_G18D) [Solution](https://github.com/LehighCSE/CSE017-S20/blob/master/Quizzes/CSE%20017%20-%20Quiz%202%20Solution.md)
+- [x] Quiz 3 - Due 7/20 - [Link](https://classroom.github.com/a/lA2iEgXb) - [Solution](https://github.com/cmontella/cse017-quiz3/blob/solution/README.md)
+- [x] Quiz 2 - Due 7/13 - [Link](https://classroom.github.com/a/8Eh_G18D) - [Solution](https://github.com/LehighCSE/CSE017-S20/blob/master/Quizzes/CSE%20017%20-%20Quiz%202%20Solution.md)
 - [x] Quiz 1 - Due 7/06 - [Link](https://classroom.github.com/a/DkTL7hmH)
 
 ## Lectures
