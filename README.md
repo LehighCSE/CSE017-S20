@@ -2,14 +2,16 @@
 
 ## Homework
 
+- [ ] Homework 4 - Due 7/29 - [Link](https://classroom.github.com/a/EH_dQPYZ)
 - [x] Homework 3 - Due 7/22 - [Link](https://classroom.github.com/a/F-VbjCFc)
-- [x] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ)
+- [x] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ) - [Solution](https://github.com/LehighCSE/cse017-hw2/blob/solved/Team.java)
 - [x] Homework 1 - Due 7/06 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
 
 ## Quizzes
 
-- [x] Quiz 3 - Due 7/20 - [Link](https://classroom.github.com/a/lA2iEgXb)
-- [x] Quiz 2 - Due 7/13 - [[Link](https://classroom.github.com/a/8Eh_G18D)] [[Solution](https://github.com/LehighCSE/CSE017-S20/blob/master/Quizzes/CSE%20017%20-%20Quiz%202%20Solution.md)]
+- [ ] Quiz 4 - Due 7/27 - [Link](https://classroom.github.com/a/zGqRbhWJ)
+- [x] Quiz 3 - Due 7/20 - [Link](https://classroom.github.com/a/lA2iEgXb) - [Solution](https://github.com/cmontella/cse017-quiz3/blob/solution/README.md)
+- [x] Quiz 2 - Due 7/13 - [Link](https://classroom.github.com/a/8Eh_G18D) - [Solution](https://github.com/LehighCSE/CSE017-S20/blob/master/Quizzes/CSE%20017%20-%20Quiz%202%20Solution.md)
 - [x] Quiz 1 - Due 7/06 - [Link](https://classroom.github.com/a/DkTL7hmH)
 
 ## Lectures
