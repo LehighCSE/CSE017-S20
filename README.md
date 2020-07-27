@@ -16,6 +16,7 @@
 
 ## Lectures
 
+- Lecture 12 - [Video](https://youtu.be/lEYiDNrcCdk) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2012.pptx) - Heap Sort and Intro to Trees
 - Lecture 11 - [Video](https://youtu.be/UEY1VdYVhck) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2011.pptx) - Heap Sort and Intro to Trees
 - Lecture 10 - [Video](https://youtu.be/S06PkYmDm2I) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2010.pptx) - Sorting Continued
 - Lecture 9 - [Video](https://youtu.be/ZGLogsI76xs) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%209.pptx) - Sorting 
