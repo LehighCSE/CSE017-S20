@@ -9,13 +9,14 @@
 
 ## Quizzes
 
-- [ ] Quiz 4 - Due 7/27 - [Link](https://classroom.github.com/a/zGqRbhWJ)
+- [x] Quiz 4 - Due 7/27 - [Link](https://classroom.github.com/a/zGqRbhWJ)
 - [x] Quiz 3 - Due 7/20 - [Link](https://classroom.github.com/a/lA2iEgXb) - [Solution](https://github.com/cmontella/cse017-quiz3/blob/solution/README.md)
 - [x] Quiz 2 - Due 7/13 - [Link](https://classroom.github.com/a/8Eh_G18D) - [Solution](https://github.com/LehighCSE/CSE017-S20/blob/master/Quizzes/CSE%20017%20-%20Quiz%202%20Solution.md)
 - [x] Quiz 1 - Due 7/06 - [Link](https://classroom.github.com/a/DkTL7hmH)
 
 ## Lectures
 
+- Lecture 13 - [Video](https://youtu.be/hMK8qmXxAYY) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2013.pptx) - Searching Graphs
 - Lecture 12 - [Video](https://youtu.be/lEYiDNrcCdk) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2012.pptx) - Heap Sort and Intro to Trees
 - Lecture 11 - [Video](https://youtu.be/UEY1VdYVhck) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2011.pptx) - Heap Sort and Intro to Trees
 - Lecture 10 - [Video](https://youtu.be/S06PkYmDm2I) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2010.pptx) - Sorting Continued
@@ -30,6 +31,18 @@
 - Lecture 1 - [git and Github](https://youtu.be/6LaLj-WcSn8)
 
 ## Readings
+
+### Week 5
+
+From the [Algorithms book](https://open.umn.edu/opentextbooks/textbooks/think-data-structures-algorithms-and-information-retrieval-in-java)
+
+- Chapter 13
+
+- https://en.wikipedia.org/wiki/Depth-first_search
+- https://en.wikipedia.org/wiki/Breadth-first_search
+- https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+- https://en.wikipedia.org/wiki/Circular_buffer
+- https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
 ### Week 4
 
