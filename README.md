@@ -2,13 +2,15 @@
 
 ## Homework
 
-- [ ] Homework 4 - Due 7/29 - [Link](https://classroom.github.com/a/EH_dQPYZ)
+- [ ] Homework 5 - Due 8/06 - [Link](https://classroom.github.com/a/9-2rSX6F)
+- [x] Homework 4 - Due 7/29 - [Link](https://classroom.github.com/a/EH_dQPYZ)
 - [x] Homework 3 - Due 7/22 - [Link](https://classroom.github.com/a/F-VbjCFc)
 - [x] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ) - [Solution](https://github.com/LehighCSE/cse017-hw2/blob/solved/Team.java)
 - [x] Homework 1 - Due 7/06 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
 
 ## Quizzes
 
+- [ ] Quiz 5 - Due 8/03 - [Link](https://classroom.github.com/a/2p0GZKGY)
 - [x] Quiz 4 - Due 7/27 - [Link](https://classroom.github.com/a/zGqRbhWJ)
 - [x] Quiz 3 - Due 7/20 - [Link](https://classroom.github.com/a/lA2iEgXb) - [Solution](https://github.com/cmontella/cse017-quiz3/blob/solution/README.md)
 - [x] Quiz 2 - Due 7/13 - [Link](https://classroom.github.com/a/8Eh_G18D) - [Solution](https://github.com/LehighCSE/CSE017-S20/blob/master/Quizzes/CSE%20017%20-%20Quiz%202%20Solution.md)
@@ -16,6 +18,7 @@
 
 ## Lectures
 
+- Lecture 14 - [Video](https://youtu.be/fqBHJZ4djH4) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2014.pptx) - Dijkstra's Algorithm
 - Lecture 13 - [Video](https://youtu.be/hMK8qmXxAYY) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2013.pptx) - Searching Graphs
 - Lecture 12 - [Video](https://youtu.be/lEYiDNrcCdk) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2012.pptx) - Heap Sort and Intro to Trees
 - Lecture 11 - [Video](https://youtu.be/UEY1VdYVhck) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2011.pptx) - Heap Sort and Intro to Trees
