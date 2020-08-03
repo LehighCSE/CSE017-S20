@@ -19,7 +19,7 @@
 ## Lectures
 
 - Lecture 15 - [Video](https://youtu.be/4WXbZFtaPrA) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2015.pptx) - Binary Search Trees
-- Lecture 14 - [Video](https://youtu.be/fqBHJZ4djH4) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2014.pptx) - Dijkstra's Algorithm
+- Lecture 14 - [Video](https://youtu.be/fqBHJZ4djH4) - [Slides](https://github.com/LehighCSE/CSE017-S20/blob/master/Slides/Dijkstra's%20Example.pptx?raw=true) - Dijkstra's Algorithm
 - Lecture 13 - [Video](https://youtu.be/hMK8qmXxAYY) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2013.pptx) - Searching Graphs
 - Lecture 12 - [Video](https://youtu.be/lEYiDNrcCdk) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2012.pptx) - Heap Sort and Intro to Trees
 - Lecture 11 - [Video](https://youtu.be/UEY1VdYVhck) - [Slides](https://github.com/LehighCSE/CSE017-S20/raw/master/Slides/Lecture%2011.pptx) - Heap Sort and Intro to Trees
