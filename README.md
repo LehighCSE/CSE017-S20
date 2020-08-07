@@ -3,7 +3,7 @@
 ## Homework
 
 - [ ] Homework 5 - Due 8/06 - [Link](https://classroom.github.com/a/9-2rSX6F) - [Solution](https://github.com/cmontella/cse017-hw5/tree/solution)
-- [x] Homework 4 - Due 7/29 - [Link](https://classroom.github.com/a/EH_dQPYZ)
+- [x] Homework 4 - Due 7/29 - [Link](https://classroom.github.com/a/EH_dQPYZ) - [Solution](https://github.com/cmontella/cse017-hw4/tree/solution)
 - [x] Homework 3 - Due 7/22 - [Link](https://classroom.github.com/a/F-VbjCFc)
 - [x] Homework 2 - Due 7/14 - [Link](https://classroom.github.com/a/GcvoDPXZ) - [Solution](https://github.com/LehighCSE/cse017-hw2/blob/solved/Team.java)
 - [x] Homework 1 - Due 7/06 - [Link](https://github.com/LehighCSE/CSE017-S20/blob/master/Homework1.md)
